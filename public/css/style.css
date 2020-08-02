@@ -1,0 +1,7 @@
+#BODY{
+    max-width: 100vw;
+    overflow-x: hidden;
+}
+.hidden{
+    display: none;
+}
